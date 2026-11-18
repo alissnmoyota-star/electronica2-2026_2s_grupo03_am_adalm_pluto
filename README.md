@@ -9,7 +9,7 @@
 Desarrollar un enlace AM en lazo cerrado a 433 MHz utilizando el módulo ADALM-Pluto controlado desde Python mediante `pyadi-iio`. El sistema permitirá generar una señal modulante de 1 kHz, analizar sus componentes I/Q y espectro FFT, y evaluar su demodulación por envolvente.
 
 ## Integrantes
-* José Londo
+* José Stalyn Londo Quishpi (joselq77)
 * Alisson Daniela Moyota Ñauñay (alissnmoyota-star)
 * Steve Alejandro Samaniego Miranda (Elmejoreoyo)
 
