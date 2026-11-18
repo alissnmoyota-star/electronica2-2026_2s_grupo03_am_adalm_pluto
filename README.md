@@ -11,7 +11,7 @@ Desarrollar un enlace AM en lazo cerrado a 433 MHz utilizando el módulo ADALM-P
 ## Integrantes
 * José Londo
 * Alisson Moyota 
-* Steve Samaniego
+* Steve Samaniego (@elmejoreoyo)
 
 ## Estructura del repositorio
 * `docs/`: Documentación, diagramas de conexión e informe en formato artículo.
